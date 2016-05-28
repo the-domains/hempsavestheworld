@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=ZE1sUwY_q0k'
 title: 'How Hemp Threatens the Corporatocracy | Brainwash Update'
-datePublished: '2016-05-28T21:24:26.951Z'
-dateModified: '2016-05-28T21:23:41.940Z'
+datePublished: '2016-05-28T21:35:04.368Z'
+dateModified: '2016-05-28T21:34:38.139Z'
 starred: false
 sourcePath: _posts/2016-05-28-how-hemp-threatens-the-corporatocracy-or-brainwash-update.md
 inFeed: true
