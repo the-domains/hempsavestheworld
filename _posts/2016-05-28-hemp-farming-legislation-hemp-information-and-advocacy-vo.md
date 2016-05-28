@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-28T17:13:43.797Z'
+datePublished: '2016-05-28T17:14:02.096Z'
 isBasedOnUrl: 'http://www.votehemp.com/'
 keywords:
   - hemp
@@ -14,7 +14,7 @@ keywords:
   - non-profit
 related: []
 author: []
-dateModified: '2016-05-28T17:12:48.704Z'
+dateModified: '2016-05-28T17:14:01.795Z'
 title: 'Hemp Farming Legislation, Hemp Information and Advocacy - Vote Hemp'
 app_links: []
 publisher:
@@ -24,8 +24,8 @@ publisher:
   domain: www.votehemp.com
 description: 'Vote Hemp is a national, single-issue, nonprofit organization dedicated to the acceptance of and free market for low-THC industrial hemp and to changes in current law to allow U.S. farmers to once again grow hemp as a commercial crop.'
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-05-28-hemp-farming-legislation-hemp-information-and-advocacy-vo.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
