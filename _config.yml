@@ -1,4 +1,3 @@
-layout_spectrum: 0.8210879312828183
 typography_spectrum: 0.13871240243315697
 color:
   brandStrength: 0.030034521827474236
@@ -11,5 +10,10 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.8210879312828183
 name: HempSavesThePlanet
+navigation:
+  - name: Zeoform at a Glance
+    id: 5a406ed1-95cb-4d48-b685-c707f3d6897b
+    type: content
 title: Join Hemp in the battle to save planet
