@@ -25,16 +25,14 @@ description: >-
   harsh laws against its use.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://norml.org/'
 title: NORML.org - Working to Reform Marijuana Laws
-datePublished: '2016-08-31T18:47:51.860Z'
-dateModified: '2016-08-31T18:47:10.905Z'
+datePublished: '2016-08-31T19:11:31.906Z'
+dateModified: '2016-08-31T19:11:31.618Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-normlorg-working-to-reform-marijuana-laws.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: normlorg-working-to-reform-marijuana-laws/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
