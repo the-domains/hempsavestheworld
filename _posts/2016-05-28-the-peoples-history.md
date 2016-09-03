@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-05-28T17:43:48.731Z'
-isBasedOnUrl: 'http://www.mit.edu/~thistle/v13/2/history.html'
+datePublished: '2016-08-31T19:13:48.677Z'
 keywords:
   - hemp
   - fiber
@@ -14,21 +13,24 @@ keywords:
   - paper
 related: []
 author: []
-dateModified: '2016-05-28T17:43:43.364Z'
-title: "The People's History"
+dateModified: '2016-08-31T19:13:48.103Z'
+title: The People's History
 app_links: []
 publisher:
   url: 'http://www.mit.edu'
   name: Mit
   favicon: 'http://www.mit.edu/favicon.ico'
   domain: www.mit.edu
-description: 'In this issue, we will lead you through a centuries old history of hemp and tell you about the several uses of this plant which still remains banned in the “Land of the Free”.'
+description: >-
+  In this issue, we will lead you through a centuries old history of hemp and
+  tell you about the several uses of this plant which still remains banned in
+  the “Land of the Free”.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-05-28-the-peoples-history.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+via: {}
+starred: false
+url: the-peoples-history/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
