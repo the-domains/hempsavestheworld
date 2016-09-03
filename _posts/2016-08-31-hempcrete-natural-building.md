@@ -24,16 +24,14 @@ description: >-
   contact us for more information.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://www.hempcrete.ca/'
 title: Hempcrete Natural Building
-datePublished: '2016-08-31T19:27:45.352Z'
-dateModified: '2016-08-31T19:17:24.762Z'
+datePublished: '2016-08-31T19:33:21.205Z'
+dateModified: '2016-08-31T19:33:20.907Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-hempcrete-natural-building.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: hempcrete-natural-building/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
