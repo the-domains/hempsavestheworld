@@ -11,11 +11,11 @@ description: Hemp Saves The Planet Email Forms
 app_links: []
 isBasedOnUrl: 'http://eepurl.com/cdLy_9'
 title: Hemp Saves The Planet
-datePublished: '2016-08-31T20:59:33.875Z'
-dateModified: '2016-08-31T20:59:10.759Z'
+datePublished: '2016-08-31T21:09:08.922Z'
+dateModified: '2016-08-31T21:09:08.542Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-31-hemp-saves-the-planet.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
