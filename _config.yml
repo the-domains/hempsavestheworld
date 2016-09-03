@@ -25,4 +25,7 @@ navigation:
   - name: Hempcrete - Natural Building
     id: 965dac4e-3519-4cc7-b495-1e02c874b0da
     type: content
+  - name: Follow us on facebook
+    url: 'https://www.facebook.com/Hemp-Saves-The-Planet-1170584849619018/'
+    type: external
 title: Join Hemp in the battle to save the planet
